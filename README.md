@@ -30,7 +30,7 @@ En este proyecto se aplicaron las siguientes mejoras de performance:
 ## Demo
 - Sitio: https://blogdecafecani.netlify.app/
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/cesar1997alan/Blog-de-cafe-.git
